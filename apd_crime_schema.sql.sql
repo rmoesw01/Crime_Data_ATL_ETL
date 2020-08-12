@@ -1,4 +1,6 @@
-﻿CREATE TABLE apd_crime_data (
+﻿
+
+CREATE TABLE apd_crime_data (
     crime_type varchar(30)   ,
     report_number int PRIMARY KEY  ,
     report_date date   ,
@@ -14,10 +16,10 @@
 
 CREATE TABLE apd_police_shooting (
     id int  PRIMARY KEY ,
-    name varchar(30)   ,
+    name varchar   ,
     date date  ,
     manner_of_death varchar(30)  ,
-    armed varchar(30)   ,
+    armed varchar   ,
     age float   ,
     gender varchar(1)  ,
     race varchar(10)   ,
