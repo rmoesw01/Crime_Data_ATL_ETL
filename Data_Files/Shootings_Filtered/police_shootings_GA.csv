@@ -47,7 +47,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1920,Johnathan Lozano-Murillo,2016-09-28,shot,knife,28.0,M,Hispanic,Valdosta,GA,False,attack,Not fleeing,True,Sharp objects
 1944,Larry Daniel Matthews,2016-10-07,shot,pepper spray,57.0,M,Black,Macon,GA,False,other,Not fleeing,False,Other unusual objects
 1998,Edwin Amaya Maldonado,2016-10-27,shot,unknown,24.0,M,Hispanic,Elberton,GA,False,attack,Foot,False,Unknown
-2037,Andrew Depeiza,2016-11-11,shot and Tasered,unarmed,37.11793090137039,M,Black,East Point,GA,False,attack,Foot,False,Unarmed
+2037,Andrew Depeiza,2016-11-11,shot and Tasered,unarmed,37.0,M,Black,East Point,GA,False,attack,Foot,False,Unarmed
 2057,Dontrell Montrese Carter,2016-11-18,shot,gun,25.0,M,Black,Ludowici,GA,False,attack,Not fleeing,False,Guns
 2120,Rainer Tyler Smith,2016-12-12,shot,gun,31.0,M,White,Fort Valley,GA,False,attack,Not fleeing,False,Guns
 2128,Earl Labon Eubanks,2016-12-13,shot and Tasered,gun,32.0,M,Black,Hampton,GA,True,other,Not fleeing,False,Guns
@@ -83,11 +83,11 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3353,Steven Hutchins,2018-01-25,shot,toy weapon,27.0,M,White,Buford,GA,True,attack,Not fleeing,False,Other unusual objects
 3356,Paul David Johnson,2018-01-28,shot,gun,38.0,M,White,Chamblee,GA,False,attack,Foot,False,Guns
 3375,Brett Dontae Bush,2018-02-01,shot,knife,28.0,M,Black,Clayton,GA,False,other,Other,False,Sharp objects
-3379,Mitchell Kitchen,2018-02-03,shot,toy weapon,37.11793090137039,M,Black,Atlanta,GA,False,attack,Foot,False,Other unusual objects
+3379,Mitchell Kitchen,2018-02-03,shot,toy weapon,37.0,M,Black,Atlanta,GA,False,attack,Foot,False,Other unusual objects
 3394,Tierre Guthrie,2018-02-09,shot,gun,39.0,M,Black,Locust Grove,GA,False,attack,Not fleeing,False,Guns
 3395,David Darden,2018-02-09,shot,vehicle,36.0,M,Black,Atlanta,GA,False,other,Car,False,Vehicles
 3461,David Willoughby,2018-03-05,shot,toy weapon,33.0,M,White,Carroll County,GA,False,attack,Not fleeing,False,Other unusual objects
-3608,Dashaun Shepard,2018-04-12,shot,gun,37.11793090137039,M,Black,Atlanta,GA,True,attack,Not fleeing,False,Guns
+3608,Dashaun Shepard,2018-04-12,shot,gun,37.0,M,Black,Atlanta,GA,True,attack,Not fleeing,False,Guns
 3619,Jessie Thedford,2018-04-14,shot,vehicle,32.0,M,White,Carrollton,GA,False,attack,Not fleeing,False,Vehicles
 3624,Sanchez Lowe,2018-04-17,shot,unknown,25.0,M,Black,Austell,GA,False,attack,Car,False,Unknown
 3626,Justin Oakes,2018-04-18,shot,knife,32.0,M,White,Douglasville,GA,False,attack,Not fleeing,True,Sharp objects
@@ -126,7 +126,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4620,Veltavious Griggs,2019-04-01,shot,gun,19.0,M,Black,Union City,GA,False,attack,Other,False,Guns
 4651,Carlton Steve Brooks,2019-04-20,shot,gun,63.0,M,White,Athens,GA,True,attack,Not fleeing,True,Guns
 4696,David Wayne West,2019-05-02,shot,unarmed,52.0,M,White,Glenwood,GA,False,attack,Other,False,Unarmed
-4714,Edward Fuller,2019-05-11,shot,gun,37.11793090137039,M,Black,Savannah,GA,False,attack,Foot,False,Guns
+4714,Edward Fuller,2019-05-11,shot,gun,37.0,M,Black,Savannah,GA,False,attack,Foot,False,Guns
 4835,Aaron Hong,2019-07-01,shot,knife,23.0,M,Asian,Athens,GA,True,attack,Not fleeing,True,Sharp objects
 4854,Olivio Sandoval Diaz,2019-07-04,shot and Tasered,piece of wood,47.0,M,Hispanic,Roswell,GA,False,attack,Not fleeing,False,Other unusual objects
 5462,Daryl Johannesson,2019-07-16,shot,gun,56.0,M,White,Porterdale,GA,False,attack,Not fleeing,False,Guns
