@@ -14,7 +14,7 @@ CREATE TABLE apd_crime_data (
      
 );
 
-CREATE TABLE apd_police_shooting (
+CREATE TABLE us_police_shooting (
     id int  PRIMARY KEY ,
     name varchar   ,
     date date  ,
