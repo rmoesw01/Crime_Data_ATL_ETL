@@ -13,6 +13,8 @@
 
  2. Run the file **APD_merge_csv_files** to read in and merge the crime data for 2018-2020
     - outputs file:  **merged_2018_to_2020**
+    - Fun import in this file:  Import **glob** to read in all monthly CSV files at once.  Code looks like:
+    - apd_raw_df = pd.concat(map(pd.read_csv, glob.glob('Data_files/APD_data_2018_to_2020/*.csv')))
 
  3. Run the file **Clean_shootings_data** to read in and clean the US police shootings
     - outputs file:  **police_shootings_us**
