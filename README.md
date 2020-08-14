@@ -7,7 +7,7 @@
 
  ## PART II Merge and clean the monthly APD crime reports
   - This part of the project was performed by different team members at different times which is the reason for multiple Python scripts.
- ### The monthly APD crime reports are stored in Data_Files/Monthly 
+ ### The monthly APD crime reports are stored in Data_Files/Monthly and Data_Files/APD_data_2018_to_2020
  1. Run the file **Merge_monthly_APD** to read in and merge the crime data for 2015-2017
     - outputs file:**2015-2017-APD**<br>
 
